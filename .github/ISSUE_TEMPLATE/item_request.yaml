@@ -1,0 +1,61 @@
+name: New Item Request
+description: Request form for adding a new item to the ExampleMod SDK.
+title: "[Item Request]: Your Item Name Here"
+labels: ["Item Request"]
+assignees: ''
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Example Item Demonstration Request
+        Thank you for contributing to the educational resources of the ExampleMod SDK! To request a new example item that demonstrates the capabilities of the ModComponent SDK, please fill out the following form with as much detail as possible. Remember, the goal is to help users visually understand how the SDK works.
+
+  - type: input
+    id: exampleName
+    attributes:
+      label: Item Name
+      description: What is the name of the example item you would like to add?
+      placeholder: e.g., ExampleCampfire
+    validations:
+      required: true
+
+  - type: textarea
+    id: examplePurpose
+    attributes:
+      label: Purpose of the Example
+      description: Please provide a detailed description of what SDK feature this example is intended to demonstrate.
+      placeholder: Describe the SDK feature(s) this item will help illustrate, and how it does so.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: exampleComplexity
+    attributes:
+      label: Complexity Level
+      description: Please select the complexity level this example should target.
+      options:
+        - label: Beginner
+        - label: Intermediate
+        - label: Advanced
+    validations:
+      required: true
+
+  - type: textarea
+    id: learningObjectives
+    attributes:
+      label: Learning Objectives
+      description: What should users learn from this example?
+      placeholder: Outline the key concepts or skills users will gain.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: agreeTerms
+    attributes:
+      label: Terms of Contribution
+      description: Please agree to the following terms.
+      options:
+        - label: I understand that submitting this request does not guarantee its acceptance or implementation.
+          required: true
+        - label: I confirm that this request is for educational purposes and meant to enhance understanding of the ModComponent SDK.
+          required: true

@@ -6,9 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/Deaadman/ExampleModSDK/releases/latest"><img src="https://img.shields.io/github/v/release/Deaadman/ExampleModSDK?label=latest&style=for-the-badge"></a>
-  <a href="https://github.com/Deaadman/ExampleModSDK/issues"><img src="https://img.shields.io/github/issues/Deaadman/ExampleModSDK?style=for-the-badge"></a>
-</p>
-
+  <a href="https://github.com/Deaadman/ExampleModSDK/issues?q=is%3Aissue+is%3Aopen+label%3A%22Item+Request%22"><img src="https://img.shields.io/github/issues-raw/Deaadman/ExampleModSDK/Item%20Request?label=Item%20Requests&color=blue&style=for-the-badge"></a>
+  
 ---
 
 ## GENERAL INFORMATION
