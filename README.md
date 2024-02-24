@@ -4,9 +4,16 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Deaadman/ExampleModSDK/releases/latest"><img src="https://img.shields.io/github/v/release/Deaadman/ExampleModSDK?label=latest&style=for-the-badge"></a>
-  <a href="https://github.com/Deaadman/ExampleModSDK/issues?q=is%3Aissue+is%3Aopen+label%3A%22Item+Request%22"><img src="https://img.shields.io/github/issues-raw/Deaadman/ExampleModSDK/Item%20Request?label=Item%20Requests&color=blue&style=for-the-badge"></a>
+<div align="center">
+
+[![Latest Release](https://img.shields.io/github/v/release/Deaadman/ExampleModSDK?label=Latest%20Release&style=for-the-badge)](https://github.com/Deaadman/ExampleModSDK/releases/latest)
+
+[![Total Downloads](https://img.shields.io/github/downloads/Deaadman/ExampleModSDK/total.svg?style=for-the-badge)](https://github.com/Deaadman/ExampleModSDK/releases)
+[![Latest Downloads](https://img.shields.io/github/downloads/Deaadman/ExampleModSDK/latest/total.svg?style=for-the-badge)](https://github.com/Deaadman/ExampleModSDK/releases)
+
+[![Item Requests](https://img.shields.io/github/issues-raw/Deaadman/ExampleModSDK/Item%20Request?label=Item%20Requests&color=blue&style=for-the-badge)](https://github.com/Deaadman/ExampleModSDK/issues?q=is%3Aissue+is%3Aopen+label%3A%22Item+Request%22)
+
+</div>
   
 ---
 
