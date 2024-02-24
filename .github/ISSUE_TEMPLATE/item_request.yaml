@@ -2,7 +2,6 @@ name: New Item Request
 description: Request form for adding a new item to the ExampleMod SDK.
 title: "[Item Request]: Your Item Name Here"
 labels: ["Item Request"]
-assignees: ''
 body:
   - type: markdown
     attributes:
